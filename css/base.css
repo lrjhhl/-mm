@@ -1,0 +1,22 @@
+.w {
+    width: 980px;
+    margin: 0 auto;
+    /* background-color: rgba(203, 199, 196, 0.1); */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #f9d95e;
+}
